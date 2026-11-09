@@ -79,7 +79,7 @@ Semantic headings, landmarks, native controls and radio groups, skip link, visib
 2. In **Settings → Pages → Build and deployment**, select **GitHub Actions**.
 3. The workflow deploys the `dist` artifact and reports the Pages URL.
 
-Vite uses a relative base locally. CI supplies `BASE_PATH=/<repository-name>/`, and the hash-based routes survive reloads under repository subpaths without server rewrite rules. For an organization/user root Pages site or custom domain, change the workflow build environment to `BASE_PATH=/`. For a manual subpath build:
+Vite defaults to `/michigan-explorer-academy/` in development and production. CI supplies the same `BASE_PATH` explicitly. Playwright starts a fresh production preview server on port 4175 and checks both rendered behavior and built asset paths under that subpath. Hash-based routes survive reloads without server rewrite rules. For an organization/user root Pages site or custom domain, change the workflow build environment to `BASE_PATH=/`. For a manual subpath build:
 
 ```sh
 BASE_PATH=/michigan-explorer-academy/ npm run build

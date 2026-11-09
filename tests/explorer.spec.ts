@@ -3,10 +3,28 @@ import standards from "../src/data/standards.json" with { type: "json" };
 test("dashboard, verified standards and unfinished modules", async ({
   page,
 }) => {
-  await page.goto("/");
+  await page.goto("./");
   await expect(
     page.getByRole("heading", { name: "Hello, Michigan explorer!" }),
   ).toBeVisible();
+  expect(new URL(page.url()).pathname).toBe("/michigan-explorer-academy/");
+  const assetPaths = await page
+    .locator('script[src], link[rel="stylesheet"]')
+    .evaluateAll((elements) =>
+      elements.map(
+        (element) =>
+          new URL(
+            element.getAttribute("src") || element.getAttribute("href")!,
+            location.href,
+          ).pathname,
+      ),
+    );
+  expect(assetPaths.length).toBeGreaterThan(0);
+  expect(
+    assetPaths.every((path) =>
+      path.startsWith("/michigan-explorer-academy/assets/"),
+    ),
+  ).toBe(true);
   await page.screenshot({
     path: `test-results/dashboard-${test.info().project.name}.png`,
     fullPage: true,
@@ -23,7 +41,7 @@ test("dashboard, verified standards and unfinished modules", async ({
   await expect(
     page.getByRole("heading", { name: "Teachings that carry forward" }),
   ).toBeVisible();
-  await page.goto("/#Geography");
+  await page.goto("./#Geography");
   await expect(
     page.getByText(
       "Lessons, activities, and assessments are not yet developed",
@@ -36,7 +54,7 @@ test("assessment mastery needs two rounds and persists across reloads", async ({
   page,
 }) => {
   const s = standards[0];
-  await page.goto("/#standard/" + s.code);
+  await page.goto("./#standard/" + s.code);
   for (let round = 0; round < 2; round++) {
     await page
       .getByRole("button", { name: `Assessment round ${round + 1}` })
@@ -69,7 +87,7 @@ test("wrong practice answers provide feedback and targeted review", async ({
   page,
 }) => {
   const s = standards[1];
-  await page.goto("/#standard/" + s.code);
+  await page.goto("./#standard/" + s.code);
   await page.getByRole("button", { name: "Practice this skill" }).click();
   for (let i = 0; i < 5; i++) {
     const q = s.practice[i];
@@ -95,14 +113,14 @@ test("wrong practice answers provide feedback and targeted review", async ({
 test("keyboard controls order a timeline and classify evidence", async ({
   page,
 }) => {
-  await page.goto("/#standard/3-H3.0.10");
+  await page.goto("./#standard/3-H3.0.10");
   await page.getByRole("button", { name: "Move 1701 earlier" }).focus();
   await page.keyboard.press("Enter");
   await page.getByRole("button", { name: "Move 1825 earlier" }).click();
   await page.getByRole("button", { name: "Move 1825 earlier" }).click();
   await page.getByRole("button", { name: "Check my timeline" }).click();
   await expect(page.getByText("You did it!", { exact: false })).toBeVisible();
-  await page.goto("/#standard/3-H3.0.2");
+  await page.goto("./#standard/3-H3.0.2");
   await page
     .getByRole("button", { name: "Primary source", exact: true })
     .first()
@@ -111,10 +129,14 @@ test("keyboard controls order a timeline and classify evidence", async ({
 });
 test("responsive layout and no third-party requests", async ({ page }) => {
   const remote: string[] = [];
+  const origin = new URL(test.info().project.use.baseURL!).origin;
   page.on("request", (r) => {
-    if (!r.url().startsWith("http://127.0.0.1:4173")) remote.push(r.url());
+    if (new URL(r.url()).origin !== origin) remote.push(r.url());
   });
-  await page.goto("/");
+  await page.goto("./");
+  await expect(
+    page.getByRole("heading", { name: "Hello, Michigan explorer!" }),
+  ).toBeVisible();
   expect(
     await page.evaluate(
       () => document.documentElement.scrollWidth <= window.innerWidth,
@@ -122,7 +144,7 @@ test("responsive layout and no third-party requests", async ({ page }) => {
   ).toBe(true);
   await expect(page.locator("body")).toBeVisible();
   expect(remote).toEqual([]);
-  await page.goto("/#about");
+  await page.goto("./#about");
   await expect(
     page.getByRole("heading", { name: "Unofficial educational project" }),
   ).toBeVisible();
