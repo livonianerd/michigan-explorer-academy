@@ -1,0 +1,80 @@
+{
+  "scope": "Shared Grades 3–5 process and skills standards; not additional Grade 3 content expectations",
+  "source": {
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+    "page": 29,
+    "edition": "June 2019",
+    "verified": true
+  },
+  "status": "Reference only; dedicated lessons not yet developed",
+  "standards": [
+    {
+      "code": "P1.1",
+      "officialDescription": "Use appropriate strategies to read and interpret basic social science tables, graphs, graphics, maps, and texts."
+    },
+    {
+      "code": "P1.2",
+      "officialDescription": "Differentiate between primary and secondary source documents."
+    },
+    {
+      "code": "P1.3",
+      "officialDescription": "Express social science ideas or information in written, spoken, and graphic forms including tables, line graphs, bar graphs, and maps."
+    },
+    {
+      "code": "P1.4",
+      "officialDescription": "Identify point of view and bias."
+    },
+    {
+      "code": "P2.1",
+      "officialDescription": "Use compelling and supporting questions to investigate social studies problems."
+    },
+    {
+      "code": "P2.2",
+      "officialDescription": "Differentiate between compelling questions and supporting questions."
+    },
+    {
+      "code": "P2.3",
+      "officialDescription": "Use supporting questions to help answer compelling social studies questions."
+    },
+    {
+      "code": "P2.4",
+      "officialDescription": "Know how to find relevant evidence from a variety of sources."
+    },
+    {
+      "code": "P2.5",
+      "officialDescription": "Use data presented in social science tables, graphs, graphics, maps, and texts to answer compelling and supporting questions."
+    },
+    {
+      "code": "P3.1",
+      "officialDescription": "State an issue as a question of public policy and discuss possible solutions from different perspectives."
+    },
+    {
+      "code": "P3.2",
+      "officialDescription": "Apply Democratic Values or Constitutional Principles to support a position on an issue."
+    },
+    {
+      "code": "P3.3",
+      "officialDescription": "Construct an argument and justify a decision supported with evidence."
+    },
+    {
+      "code": "P3.4",
+      "officialDescription": "Explain the challenges people have faced and actions they have taken to address issues at different times and places."
+    },
+    {
+      "code": "P4.1",
+      "officialDescription": "Act out of the rule of law and hold others to the same standard."
+    },
+    {
+      "code": "P4.2",
+      "officialDescription": "Assess options for individuals and groups to plan and conduct activities intended to advance views on matters of public policy."
+    },
+    {
+      "code": "P4.3",
+      "officialDescription": "Explain different strategies students and others could take to address problems and predict possible results."
+    },
+    {
+      "code": "P4.4",
+      "officialDescription": "Use democratic procedures to make decisions on civic issues in the school or classroom."
+    }
+  ]
+}

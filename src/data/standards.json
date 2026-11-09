@@ -1,0 +1,2879 @@
+[
+  {
+    "code": "3-H3.0.1",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "History",
+    "officialDescription": "Identify questions historians ask in examining the past in Michigan.",
+    "officialExamples": [
+      "What happened? When did it happen? Who was involved? How and why did it happen?"
+    ],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 30,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "ready",
+    "title": "Think like a historian",
+    "objectives": [
+      "Identify who, what, when, where, how, and why questions about Michigan’s past.",
+      "Choose evidence that could help answer a historical question."
+    ],
+    "lessons": [
+      {
+        "title": "Ask good questions. Follow the clues.",
+        "paragraphs": [
+          "Historians investigate the past. They ask what happened, when and where it happened, who was involved, and why. A useful question can be explored with evidence: letters, maps, objects, oral histories, and other sources.",
+          "Imagine finding an old map of Detroit. Ask: Who made it? When? What places does it show? Compare it with another map before deciding how the town changed. A map gives clues, but it cannot tell every person’s story."
+        ],
+        "example": "Imagine finding an old map of Detroit. Ask: Who made it? When? What places does it show? Compare it with another map before deciding how the town changed. A map gives clues, but it cannot tell every person’s story.",
+        "references": [
+          "https://www.michigan.gov/som/about-michigan",
+          "https://michiganology.org/stories/steps-to-statehood-for-michigan/",
+          "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/founding-detroit"
+        ]
+      }
+    ],
+    "activities": [
+      {
+        "type": "investigate",
+        "title": "Think, explain, connect",
+        "instructions": "Identify who, what, when, where, how, and why questions about Michigan’s past. Tell a learning partner what you discovered. Which clue supports your answer?"
+      }
+    ],
+    "practice": [
+      {
+        "id": "3-H3.0.1-q1",
+        "kind": "choice",
+        "prompt": "Which question investigates Michigan’s past?",
+        "options": [
+          "Why did people move to Michigan in the 1830s?",
+          "What snack should I eat today?"
+        ],
+        "answer": 0,
+        "explanation": "Historical questions explore past people and events.",
+        "concept": "Think like a historian"
+      },
+      {
+        "id": "3-H3.0.1-q2",
+        "kind": "choice",
+        "prompt": "You find an undated letter. What should you ask first?",
+        "options": ["Is the handwriting pretty?", "When was it written?"],
+        "answer": 1,
+        "explanation": "Knowing when helps place evidence in context.",
+        "concept": "Think like a historian"
+      },
+      {
+        "id": "3-H3.0.1-q3",
+        "kind": "true-false",
+        "prompt": "True or false: Historians ask who was involved.",
+        "options": ["True", "False"],
+        "answer": 0,
+        "explanation": "People’s actions and experiences are part of history.",
+        "concept": "Think like a historian"
+      },
+      {
+        "id": "3-H3.0.1-q4",
+        "kind": "choice",
+        "prompt": "What could help explain why a family moved?",
+        "options": [
+          "A guess about their favorite color",
+          "A letter describing their reasons"
+        ],
+        "answer": 1,
+        "explanation": "Evidence can help answer why something happened.",
+        "concept": "Think like a historian"
+      },
+      {
+        "id": "3-H3.0.1-q5",
+        "kind": "choice",
+        "prompt": "Which question asks about change?",
+        "options": [
+          "How did Detroit grow between 1701 and 1837?",
+          "Is blue a nice color?"
+        ],
+        "answer": 0,
+        "explanation": "Comparing times helps reveal change.",
+        "concept": "Think like a historian"
+      }
+    ],
+    "assessments": [
+      [
+        {
+          "id": "3-H3.0.1-q1",
+          "kind": "choice",
+          "prompt": "Which question investigates Michigan’s past?",
+          "options": [
+            "Why did people move to Michigan in the 1830s?",
+            "What snack should I eat today?"
+          ],
+          "answer": 0,
+          "explanation": "Historical questions explore past people and events.",
+          "concept": "Think like a historian"
+        },
+        {
+          "id": "3-H3.0.1-q2",
+          "kind": "choice",
+          "prompt": "You find an undated letter. What should you ask first?",
+          "options": ["Is the handwriting pretty?", "When was it written?"],
+          "answer": 1,
+          "explanation": "Knowing when helps place evidence in context.",
+          "concept": "Think like a historian"
+        },
+        {
+          "id": "3-H3.0.1-q3",
+          "kind": "true-false",
+          "prompt": "True or false: Historians ask who was involved.",
+          "options": ["True", "False"],
+          "answer": 0,
+          "explanation": "People’s actions and experiences are part of history.",
+          "concept": "Think like a historian"
+        },
+        {
+          "id": "3-H3.0.1-q4",
+          "kind": "choice",
+          "prompt": "What could help explain why a family moved?",
+          "options": [
+            "A guess about their favorite color",
+            "A letter describing their reasons"
+          ],
+          "answer": 1,
+          "explanation": "Evidence can help answer why something happened.",
+          "concept": "Think like a historian"
+        },
+        {
+          "id": "3-H3.0.1-q5",
+          "kind": "choice",
+          "prompt": "Which question asks about change?",
+          "options": [
+            "How did Detroit grow between 1701 and 1837?",
+            "Is blue a nice color?"
+          ],
+          "answer": 0,
+          "explanation": "Comparing times helps reveal change.",
+          "concept": "Think like a historian"
+        }
+      ],
+      [
+        {
+          "id": "3-H3.0.1-q6",
+          "kind": "choice",
+          "prompt": "A map shows a new road. Which question helps?",
+          "options": ["Was every person happy?", "Why was the road built?"],
+          "answer": 1,
+          "explanation": "Ask an answerable question, then seek evidence.",
+          "concept": "Think like a historian"
+        },
+        {
+          "id": "3-H3.0.1-q7",
+          "kind": "choice",
+          "prompt": "What should you do when sources disagree?",
+          "options": ["Compare who made them and when", "Hide one source"],
+          "answer": 0,
+          "explanation": "Different perspectives need investigation.",
+          "concept": "Think like a historian"
+        },
+        {
+          "id": "3-H3.0.1-q8",
+          "kind": "choice",
+          "prompt": "Which question asks about causes?",
+          "options": ["What is its name?", "Why did the settlement grow?"],
+          "answer": 1,
+          "explanation": "Why questions look for reasons.",
+          "concept": "Think like a historian"
+        },
+        {
+          "id": "3-H3.0.1-q9",
+          "kind": "choice",
+          "prompt": "Can one object tell the whole history of Michigan?",
+          "options": [
+            "No, we need many sources",
+            "Yes, one object proves everything"
+          ],
+          "answer": 0,
+          "explanation": "Historians combine clues from different sources.",
+          "concept": "Think like a historian"
+        },
+        {
+          "id": "3-H3.0.1-q10",
+          "kind": "choice",
+          "prompt": "A photo has people you do not recognize. Ask…",
+          "options": ["Why is all history finished?", "Who are these people?"],
+          "answer": 1,
+          "explanation": "Identifying people helps explain an event.",
+          "concept": "Think like a historian"
+        }
+      ]
+    ],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-H3.0.2",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "History",
+    "officialDescription": "Explain how historians use primary and secondary sources to answer questions about the past.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 30,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "ready",
+    "title": "History detectives",
+    "objectives": [
+      "Classify examples as primary or secondary sources for a historical question.",
+      "Explain how comparing sources helps historians check a claim."
+    ],
+    "lessons": [
+      {
+        "title": "Primary or secondary? Let’s investigate.",
+        "paragraphs": [
+          "A primary source comes from the time or people being studied: an original diary, tool, letter, or firsthand account. A secondary source explains or interprets the past using other evidence, such as a history book written later.",
+          "An 1835 letter can show what its writer thought. A modern museum label may explain that letter alongside other sources. Both help historians. Neither is automatically complete or free from bias. Ask who created each source and for what purpose."
+        ],
+        "example": "An 1835 letter can show what its writer thought. A modern museum label may explain that letter alongside other sources. Both help historians. Neither is automatically complete or free from bias. Ask who created each source and for what purpose.",
+        "references": [
+          "https://www.michigan.gov/som/about-michigan",
+          "https://michiganology.org/stories/steps-to-statehood-for-michigan/",
+          "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/founding-detroit"
+        ]
+      }
+    ],
+    "activities": [
+      {
+        "type": "sources",
+        "title": "Try it yourself",
+        "instructions": "Explore the evidence, then explain your reasoning."
+      }
+    ],
+    "practice": [
+      {
+        "id": "3-H3.0.2-q1",
+        "kind": "source",
+        "prompt": "An original 1835 diary is what kind of source for life in 1835?",
+        "options": ["Primary", "Secondary"],
+        "answer": 0,
+        "explanation": "It was created by someone living at that time.",
+        "concept": "History detectives"
+      },
+      {
+        "id": "3-H3.0.2-q2",
+        "kind": "source",
+        "prompt": "A modern book explaining Michigan statehood is…",
+        "options": ["Primary", "Secondary"],
+        "answer": 1,
+        "explanation": "It interprets earlier events using evidence.",
+        "concept": "History detectives"
+      },
+      {
+        "id": "3-H3.0.2-q3",
+        "kind": "true-false",
+        "prompt": "True or false: Every primary source tells the whole truth.",
+        "options": ["False", "True"],
+        "answer": 0,
+        "explanation": "People have limited viewpoints; compare sources.",
+        "concept": "History detectives"
+      },
+      {
+        "id": "3-H3.0.2-q4",
+        "kind": "source",
+        "prompt": "Which source helps show what a person thought?",
+        "options": ["A made-up conversation", "Their original letter"],
+        "answer": 1,
+        "explanation": "An original letter records that writer’s perspective.",
+        "concept": "History detectives"
+      },
+      {
+        "id": "3-H3.0.2-q5",
+        "kind": "source",
+        "prompt": "Why use a diary and a history book together?",
+        "options": [
+          "To compare firsthand clues with later explanation",
+          "To avoid checking evidence"
+        ],
+        "answer": 0,
+        "explanation": "Different source types help answer different questions.",
+        "concept": "History detectives"
+      }
+    ],
+    "assessments": [
+      [
+        {
+          "id": "3-H3.0.2-q1",
+          "kind": "source",
+          "prompt": "An original 1835 diary is what kind of source for life in 1835?",
+          "options": ["Primary", "Secondary"],
+          "answer": 0,
+          "explanation": "It was created by someone living at that time.",
+          "concept": "History detectives"
+        },
+        {
+          "id": "3-H3.0.2-q2",
+          "kind": "source",
+          "prompt": "A modern book explaining Michigan statehood is…",
+          "options": ["Primary", "Secondary"],
+          "answer": 1,
+          "explanation": "It interprets earlier events using evidence.",
+          "concept": "History detectives"
+        },
+        {
+          "id": "3-H3.0.2-q3",
+          "kind": "true-false",
+          "prompt": "True or false: Every primary source tells the whole truth.",
+          "options": ["False", "True"],
+          "answer": 0,
+          "explanation": "People have limited viewpoints; compare sources.",
+          "concept": "History detectives"
+        },
+        {
+          "id": "3-H3.0.2-q4",
+          "kind": "source",
+          "prompt": "Which source helps show what a person thought?",
+          "options": ["A made-up conversation", "Their original letter"],
+          "answer": 1,
+          "explanation": "An original letter records that writer’s perspective.",
+          "concept": "History detectives"
+        },
+        {
+          "id": "3-H3.0.2-q5",
+          "kind": "source",
+          "prompt": "Why use a diary and a history book together?",
+          "options": [
+            "To compare firsthand clues with later explanation",
+            "To avoid checking evidence"
+          ],
+          "answer": 0,
+          "explanation": "Different source types help answer different questions.",
+          "concept": "History detectives"
+        }
+      ],
+      [
+        {
+          "id": "3-H3.0.2-q6",
+          "kind": "source",
+          "prompt": "A tool made and used in an early settlement is…",
+          "options": ["Secondary", "Primary"],
+          "answer": 1,
+          "explanation": "An artifact is evidence from the time studied.",
+          "concept": "History detectives"
+        },
+        {
+          "id": "3-H3.0.2-q7",
+          "kind": "source",
+          "prompt": "A museum article written today about an old tool is…",
+          "options": ["Secondary", "Primary"],
+          "answer": 0,
+          "explanation": "The article interprets an earlier object.",
+          "concept": "History detectives"
+        },
+        {
+          "id": "3-H3.0.2-q8",
+          "kind": "source",
+          "prompt": "What should you ask about an old letter?",
+          "options": ["Does old always mean correct?", "Who wrote it and why?"],
+          "answer": 1,
+          "explanation": "Authorship and purpose help evaluate evidence.",
+          "concept": "History detectives"
+        },
+        {
+          "id": "3-H3.0.2-q9",
+          "kind": "source",
+          "prompt": "A drawing made today imagining 1701 is…",
+          "options": ["Secondary", "Primary"],
+          "answer": 0,
+          "explanation": "A later reconstruction is not a firsthand record of 1701.",
+          "concept": "History detectives"
+        },
+        {
+          "id": "3-H3.0.2-q10",
+          "kind": "source",
+          "prompt": "Which is the best way to check a source’s claim?",
+          "options": [
+            "Believe it because it is old",
+            "Compare it with other evidence"
+          ],
+          "answer": 1,
+          "explanation": "Agreement and differences across sources help us investigate.",
+          "concept": "History detectives"
+        }
+      ]
+    ],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-H3.0.3",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "History",
+    "officialDescription": "Describe the causal relationships between three events in Michigan’s past.",
+    "officialExamples": ["the Erie canal, more people came, statehood."],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 30,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "ready",
+    "title": "A chain of change",
+    "objectives": [
+      "Connect the Erie Canal, migration, and Michigan’s growing population in a causal chain.",
+      "Distinguish chronological order from evidence of cause and effect."
+    ],
+    "lessons": [
+      {
+        "title": "Connect events with “because.”",
+        "paragraphs": [
+          "A cause helps explain why an event happened. An effect is a result. More than one cause can lead to an event. A timeline tells us the order, but order alone does not prove that one event caused another.",
+          "The Erie Canal opened in New York in 1825. It linked Lake Erie to the Hudson River. The route made travel toward Michigan easier. More settlers came, population grew, and more residents wanted statehood. This is a chain of related events, not the only reason Michigan became a state."
+        ],
+        "example": "The Erie Canal opened in New York in 1825. It linked Lake Erie to the Hudson River. The route made travel toward Michigan easier. More settlers came, population grew, and more residents wanted statehood. This is a chain of related events, not the only reason Michigan became a state.",
+        "references": [
+          "https://www.michigan.gov/som/about-michigan",
+          "https://michiganology.org/stories/steps-to-statehood-for-michigan/",
+          "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/founding-detroit"
+        ]
+      }
+    ],
+    "activities": [
+      {
+        "type": "timeline",
+        "title": "Try it yourself",
+        "instructions": "Explore the evidence, then explain your reasoning."
+      }
+    ],
+    "practice": [
+      {
+        "id": "3-H3.0.3-q1",
+        "kind": "choice",
+        "prompt": "What opened in 1825?",
+        "options": ["The Erie Canal", "The Mackinac Bridge"],
+        "answer": 0,
+        "explanation": "The Erie Canal created a new water route.",
+        "concept": "A chain of change"
+      },
+      {
+        "id": "3-H3.0.3-q2",
+        "kind": "choice",
+        "prompt": "Why could a canal encourage migration?",
+        "options": ["It removed every lake", "Travel became easier"],
+        "answer": 1,
+        "explanation": "Transportation can influence where people move.",
+        "concept": "A chain of change"
+      },
+      {
+        "id": "3-H3.0.3-q3",
+        "kind": "true-false",
+        "prompt": "True or false: An effect is a result.",
+        "options": ["True", "False"],
+        "answer": 0,
+        "explanation": "Effects follow from causes.",
+        "concept": "A chain of change"
+      },
+      {
+        "id": "3-H3.0.3-q4",
+        "kind": "sequence",
+        "prompt": "Which chain makes sense?",
+        "options": [
+          "Statehood → canal in 1825 → no people",
+          "Easier travel → more settlers → population growth"
+        ],
+        "answer": 1,
+        "explanation": "The canal helped travel before Michigan statehood.",
+        "concept": "A chain of change"
+      },
+      {
+        "id": "3-H3.0.3-q5",
+        "kind": "choice",
+        "prompt": "Does “after” always mean “because of”?",
+        "options": ["No", "Yes"],
+        "answer": 0,
+        "explanation": "Events can follow each other without a causal link.",
+        "concept": "A chain of change"
+      }
+    ],
+    "assessments": [
+      [
+        {
+          "id": "3-H3.0.3-q1",
+          "kind": "choice",
+          "prompt": "What opened in 1825?",
+          "options": ["The Erie Canal", "The Mackinac Bridge"],
+          "answer": 0,
+          "explanation": "The Erie Canal created a new water route.",
+          "concept": "A chain of change"
+        },
+        {
+          "id": "3-H3.0.3-q2",
+          "kind": "choice",
+          "prompt": "Why could a canal encourage migration?",
+          "options": ["It removed every lake", "Travel became easier"],
+          "answer": 1,
+          "explanation": "Transportation can influence where people move.",
+          "concept": "A chain of change"
+        },
+        {
+          "id": "3-H3.0.3-q3",
+          "kind": "true-false",
+          "prompt": "True or false: An effect is a result.",
+          "options": ["True", "False"],
+          "answer": 0,
+          "explanation": "Effects follow from causes.",
+          "concept": "A chain of change"
+        },
+        {
+          "id": "3-H3.0.3-q4",
+          "kind": "sequence",
+          "prompt": "Which chain makes sense?",
+          "options": [
+            "Statehood → canal in 1825 → no people",
+            "Easier travel → more settlers → population growth"
+          ],
+          "answer": 1,
+          "explanation": "The canal helped travel before Michigan statehood.",
+          "concept": "A chain of change"
+        },
+        {
+          "id": "3-H3.0.3-q5",
+          "kind": "choice",
+          "prompt": "Does “after” always mean “because of”?",
+          "options": ["No", "Yes"],
+          "answer": 0,
+          "explanation": "Events can follow each other without a causal link.",
+          "concept": "A chain of change"
+        }
+      ],
+      [
+        {
+          "id": "3-H3.0.3-q6",
+          "kind": "choice",
+          "prompt": "Which is a cause of more people reaching Michigan?",
+          "options": ["A future bridge opening", "A useful new travel route"],
+          "answer": 1,
+          "explanation": "A cause must help explain the result.",
+          "concept": "A chain of change"
+        },
+        {
+          "id": "3-H3.0.3-q7",
+          "kind": "choice",
+          "prompt": "What was an effect of more settlers arriving?",
+          "options": ["Population grew", "All rivers vanished"],
+          "answer": 0,
+          "explanation": "Migration adds people to a place.",
+          "concept": "A chain of change"
+        },
+        {
+          "id": "3-H3.0.3-q8",
+          "kind": "choice",
+          "prompt": "Which word signals a causal explanation?",
+          "options": ["Alphabetically", "Because"],
+          "answer": 1,
+          "explanation": "Because connects an event to a reason.",
+          "concept": "A chain of change"
+        },
+        {
+          "id": "3-H3.0.3-q9",
+          "kind": "choice",
+          "prompt": "Did the canal alone make Michigan a state?",
+          "options": [
+            "No, several steps and causes mattered",
+            "Yes, no other steps mattered"
+          ],
+          "answer": 0,
+          "explanation": "A constitution, boundary settlement, and admission also mattered.",
+          "concept": "A chain of change"
+        },
+        {
+          "id": "3-H3.0.3-q10",
+          "kind": "choice",
+          "prompt": "Which came first?",
+          "options": ["Statehood in 1837", "Canal opening in 1825"],
+          "answer": 1,
+          "explanation": "A cause must come before its effect.",
+          "concept": "A chain of change"
+        }
+      ]
+    ],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-H3.0.4",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "History",
+    "officialDescription": "Draw upon traditional stories and/or teachings of Indigenous Peoples who lived and continue to live in Michigan in order to better understand their beliefs and histories.",
+    "officialExamples": ["Teachings of the Seven Grandfathers."],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 30,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "ready",
+    "title": "Teachings that carry forward",
+    "objectives": [
+      "Explain how a teaching shared by the Sault Tribe can help us understand values.",
+      "Recognize Indigenous Peoples as distinct, living communities with continuing histories."
+    ],
+    "lessons": [
+      {
+        "title": "Listen, learn, and show respect.",
+        "paragraphs": [
+          "Indigenous Peoples lived in Michigan long before it was a state and continue to live here. Anishinaabe peoples include Ojibwe, Odawa, and Potawatomi communities. Each nation and community has its own history; one story does not speak for everyone.",
+          "The Sault Tribe of Chippewa Indians shares Seven Grandfather teachings: wisdom, love, respect, bravery, honesty, humility, and truth. These teachings guide relationships and actions. Our examples are learning paraphrases, not a traditional story or ceremony. Listen to the community’s own explanation using the source link below.",
+          "Try this example: You do not know an answer, so you admit it and ask to learn. That can show humility and honesty. Learning a teaching helps us understand values; it does not make us experts in another community’s traditions."
+        ],
+        "example": "Try this example: You do not know an answer, so you admit it and ask to learn. That can show humility and honesty. Learning a teaching helps us understand values; it does not make us experts in another community’s traditions.",
+        "references": [
+          "https://www.saulttribe.com/history-a-culture/our-culture/100-seven-grandfathers"
+        ]
+      }
+    ],
+    "activities": [
+      {
+        "type": "investigate",
+        "title": "Think, explain, connect",
+        "instructions": "Explain how a teaching shared by the Sault Tribe can help us understand values. Tell a learning partner what you discovered. Which clue supports your answer?"
+      }
+    ],
+    "practice": [
+      {
+        "id": "3-H3.0.4-q1",
+        "kind": "choice",
+        "prompt": "Which action can show respect?",
+        "options": [
+          "Listening carefully without mocking",
+          "Laughing at another community’s beliefs"
+        ],
+        "answer": 0,
+        "explanation": "Respect includes treating people and their teachings with care.",
+        "concept": "Teachings that carry forward"
+      },
+      {
+        "id": "3-H3.0.4-q2",
+        "kind": "choice",
+        "prompt": "Which is one of the Seven Grandfather teachings?",
+        "options": ["Winning every argument", "Wisdom"],
+        "answer": 1,
+        "explanation": "Wisdom is among the teachings shared by the Sault Tribe.",
+        "concept": "Teachings that carry forward"
+      },
+      {
+        "id": "3-H3.0.4-q3",
+        "kind": "true-false",
+        "prompt": "True or false: Indigenous Peoples live in Michigan today.",
+        "options": ["True", "False"],
+        "answer": 0,
+        "explanation": "Indigenous communities have pasts, presents, and futures.",
+        "concept": "Teachings that carry forward"
+      },
+      {
+        "id": "3-H3.0.4-q4",
+        "kind": "choice",
+        "prompt": "Who is a good source for a community’s teaching?",
+        "options": [
+          "An invented story with no source",
+          "That community’s own educators"
+        ],
+        "answer": 1,
+        "explanation": "Community voices help us learn accurately.",
+        "concept": "Teachings that carry forward"
+      },
+      {
+        "id": "3-H3.0.4-q5",
+        "kind": "choice",
+        "prompt": "Admitting “I still have much to learn” can show…",
+        "options": ["Humility", "Knowing everything"],
+        "answer": 0,
+        "explanation": "Humility includes recognizing that we keep learning.",
+        "concept": "Teachings that carry forward"
+      }
+    ],
+    "assessments": [
+      [
+        {
+          "id": "3-H3.0.4-q1",
+          "kind": "choice",
+          "prompt": "Which action can show respect?",
+          "options": [
+            "Listening carefully without mocking",
+            "Laughing at another community’s beliefs"
+          ],
+          "answer": 0,
+          "explanation": "Respect includes treating people and their teachings with care.",
+          "concept": "Teachings that carry forward"
+        },
+        {
+          "id": "3-H3.0.4-q2",
+          "kind": "choice",
+          "prompt": "Which is one of the Seven Grandfather teachings?",
+          "options": ["Winning every argument", "Wisdom"],
+          "answer": 1,
+          "explanation": "Wisdom is among the teachings shared by the Sault Tribe.",
+          "concept": "Teachings that carry forward"
+        },
+        {
+          "id": "3-H3.0.4-q3",
+          "kind": "true-false",
+          "prompt": "True or false: Indigenous Peoples live in Michigan today.",
+          "options": ["True", "False"],
+          "answer": 0,
+          "explanation": "Indigenous communities have pasts, presents, and futures.",
+          "concept": "Teachings that carry forward"
+        },
+        {
+          "id": "3-H3.0.4-q4",
+          "kind": "choice",
+          "prompt": "Who is a good source for a community’s teaching?",
+          "options": [
+            "An invented story with no source",
+            "That community’s own educators"
+          ],
+          "answer": 1,
+          "explanation": "Community voices help us learn accurately.",
+          "concept": "Teachings that carry forward"
+        },
+        {
+          "id": "3-H3.0.4-q5",
+          "kind": "choice",
+          "prompt": "Admitting “I still have much to learn” can show…",
+          "options": ["Humility", "Knowing everything"],
+          "answer": 0,
+          "explanation": "Humility includes recognizing that we keep learning.",
+          "concept": "Teachings that carry forward"
+        }
+      ],
+      [
+        {
+          "id": "3-H3.0.4-q6",
+          "kind": "choice",
+          "prompt": "Returning a lost item and telling the truth can show…",
+          "options": ["Ignoring other people", "Honesty"],
+          "answer": 1,
+          "explanation": "Honesty guides how we treat others.",
+          "concept": "Teachings that carry forward"
+        },
+        {
+          "id": "3-H3.0.4-q7",
+          "kind": "choice",
+          "prompt": "Does one teaching describe every Indigenous nation?",
+          "options": [
+            "No, communities are distinct",
+            "Yes, all nations are the same"
+          ],
+          "answer": 0,
+          "explanation": "We must avoid treating distinct nations as one group.",
+          "concept": "Teachings that carry forward"
+        },
+        {
+          "id": "3-H3.0.4-q8",
+          "kind": "choice",
+          "prompt": "What can traditional teachings help us understand?",
+          "options": [
+            "Only the weather tomorrow",
+            "Community values and histories"
+          ],
+          "answer": 1,
+          "explanation": "Teachings carry values across generations.",
+          "concept": "Teachings that carry forward"
+        },
+        {
+          "id": "3-H3.0.4-q9",
+          "kind": "choice",
+          "prompt": "How should we share a teaching we learned?",
+          "options": ["Name its community source", "Pretend we invented it"],
+          "answer": 0,
+          "explanation": "Attribution respects the people who share knowledge.",
+          "concept": "Teachings that carry forward"
+        },
+        {
+          "id": "3-H3.0.4-q10",
+          "kind": "choice",
+          "prompt": "Which is a respectful statement?",
+          "options": [
+            "Indigenous Peoples only existed long ago",
+            "The Sault Tribe shares these teachings today"
+          ],
+          "answer": 1,
+          "explanation": "Living nations continue to share and practice traditions.",
+          "concept": "Teachings that carry forward"
+        }
+      ]
+    ],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-H3.0.5",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "History",
+    "officialDescription": "Use informational text and visual data to compare how Indigenous Peoples and non-Indigenous Peoples in the early history of Michigan interacted with, adapted to, used, and/or modified their environments.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 30,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "ready",
+    "title": "Living with the land",
+    "objectives": [
+      "Compare ways Indigenous Peoples and European newcomers used and changed environments.",
+      "Use a practice evidence table to describe a similarity and a difference."
+    ],
+    "lessons": [
+      {
+        "title": "Different lives. Shared environments.",
+        "paragraphs": [
+          "People depend on land and water. Many Indigenous communities in early Michigan fished, farmed, harvested maple sap, and traveled by waterways. Practices differed by community and season. European newcomers also used rivers for transport and land for farming, and built mills and settlements.",
+          "Practice evidence table (an instructional model, not an original record): Community A harvests maple sap in spring and fishes in summer. Settlement B grows crops in summer and uses a water-powered mill. Both depend on water. Harvesting a resource uses the environment; building a mill changes it. We need dated, community-specific sources before applying this model to a real place."
+        ],
+        "example": "Practice evidence table (an instructional model, not an original record): Community A harvests maple sap in spring and fishes in summer. Settlement B grows crops in summer and uses a water-powered mill. Both depend on water. Harvesting a resource uses the environment; building a mill changes it. We need dated, community-specific sources before applying this model to a real place.",
+        "references": [
+          "https://www.michigan.gov/som/about-michigan",
+          "https://michiganology.org/stories/steps-to-statehood-for-michigan/",
+          "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/founding-detroit"
+        ]
+      }
+    ],
+    "activities": [
+      {
+        "type": "investigate",
+        "title": "Think, explain, connect",
+        "instructions": "Compare ways Indigenous Peoples and European newcomers used and changed environments. Tell a learning partner what you discovered. Which clue supports your answer?"
+      }
+    ],
+    "practice": [
+      {
+        "id": "3-H3.0.5-q1",
+        "kind": "choice",
+        "prompt": "In the model table, what do both communities depend on?",
+        "options": ["Water", "Airplanes"],
+        "answer": 0,
+        "explanation": "Both fishing and a water-powered mill depend on water.",
+        "concept": "Living with the land"
+      },
+      {
+        "id": "3-H3.0.5-q2",
+        "kind": "choice",
+        "prompt": "Which action modifies the environment?",
+        "options": ["Noticing a river", "Building a mill"],
+        "answer": 1,
+        "explanation": "Building changes a place.",
+        "concept": "Living with the land"
+      },
+      {
+        "id": "3-H3.0.5-q3",
+        "kind": "true-false",
+        "prompt": "True or false: All Indigenous communities used exactly the same practices.",
+        "options": ["False", "True"],
+        "answer": 0,
+        "explanation": "Practices vary across places, times, and communities.",
+        "concept": "Living with the land"
+      },
+      {
+        "id": "3-H3.0.5-q4",
+        "kind": "choice",
+        "prompt": "Harvesting maple sap is an example of…",
+        "options": ["Creating a new ocean", "Using a natural resource"],
+        "answer": 1,
+        "explanation": "Sap comes from trees.",
+        "concept": "Living with the land"
+      },
+      {
+        "id": "3-H3.0.5-q5",
+        "kind": "choice",
+        "prompt": "What evidence helps compare land use?",
+        "options": [
+          "A dated map and an account from that place",
+          "A guess about everyone"
+        ],
+        "answer": 0,
+        "explanation": "Specific sources support specific comparisons.",
+        "concept": "Living with the land"
+      }
+    ],
+    "assessments": [
+      [
+        {
+          "id": "3-H3.0.5-q1",
+          "kind": "choice",
+          "prompt": "In the model table, what do both communities depend on?",
+          "options": ["Water", "Airplanes"],
+          "answer": 0,
+          "explanation": "Both fishing and a water-powered mill depend on water.",
+          "concept": "Living with the land"
+        },
+        {
+          "id": "3-H3.0.5-q2",
+          "kind": "choice",
+          "prompt": "Which action modifies the environment?",
+          "options": ["Noticing a river", "Building a mill"],
+          "answer": 1,
+          "explanation": "Building changes a place.",
+          "concept": "Living with the land"
+        },
+        {
+          "id": "3-H3.0.5-q3",
+          "kind": "true-false",
+          "prompt": "True or false: All Indigenous communities used exactly the same practices.",
+          "options": ["False", "True"],
+          "answer": 0,
+          "explanation": "Practices vary across places, times, and communities.",
+          "concept": "Living with the land"
+        },
+        {
+          "id": "3-H3.0.5-q4",
+          "kind": "choice",
+          "prompt": "Harvesting maple sap is an example of…",
+          "options": ["Creating a new ocean", "Using a natural resource"],
+          "answer": 1,
+          "explanation": "Sap comes from trees.",
+          "concept": "Living with the land"
+        },
+        {
+          "id": "3-H3.0.5-q5",
+          "kind": "choice",
+          "prompt": "What evidence helps compare land use?",
+          "options": [
+            "A dated map and an account from that place",
+            "A guess about everyone"
+          ],
+          "answer": 0,
+          "explanation": "Specific sources support specific comparisons.",
+          "concept": "Living with the land"
+        }
+      ],
+      [
+        {
+          "id": "3-H3.0.5-q6",
+          "kind": "choice",
+          "prompt": "Which season has sap harvesting in our model?",
+          "options": ["Winter only", "Spring"],
+          "answer": 1,
+          "explanation": "Read the spring row of the model carefully.",
+          "concept": "Living with the land"
+        },
+        {
+          "id": "3-H3.0.5-q7",
+          "kind": "choice",
+          "prompt": "Which activity belongs to Settlement B in the model?",
+          "options": ["Using a water-powered mill", "Flying a jet"],
+          "answer": 0,
+          "explanation": "The model lists a mill for Settlement B.",
+          "concept": "Living with the land"
+        },
+        {
+          "id": "3-H3.0.5-q8",
+          "kind": "choice",
+          "prompt": "What is a similarity in the model?",
+          "options": [
+            "Neither uses the environment",
+            "Both communities use resources"
+          ],
+          "answer": 1,
+          "explanation": "Compare evidence to find a shared feature.",
+          "concept": "Living with the land"
+        },
+        {
+          "id": "3-H3.0.5-q9",
+          "kind": "choice",
+          "prompt": "Why label the table an instructional model?",
+          "options": [
+            "It is made for practice, not an original historical record",
+            "It proves every community was identical"
+          ],
+          "answer": 0,
+          "explanation": "A model helps practice skills but is not historical evidence.",
+          "concept": "Living with the land"
+        },
+        {
+          "id": "3-H3.0.5-q10",
+          "kind": "choice",
+          "prompt": "Which statement needs more evidence?",
+          "options": [
+            "The model lists summer crops",
+            "Every family farmed the same way"
+          ],
+          "answer": 1,
+          "explanation": "Claims about everyone require much more evidence.",
+          "concept": "Living with the land"
+        }
+      ]
+    ],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-H3.0.6",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "History",
+    "officialDescription": "Use a variety of sources to describe interactions that occurred between Indigenous Peoples and the first European explorers and settlers in Michigan.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 30,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "ready",
+    "title": "Meeting, trading, changing",
+    "objectives": [
+      "Describe trade, cooperation, and conflict in early encounters.",
+      "Explain why artifacts, trader accounts, and tribal histories offer different clues."
+    ],
+    "lessons": [
+      {
+        "title": "Look at more than one perspective.",
+        "paragraphs": [
+          "Indigenous Peoples had their own communities and trading networks before Europeans arrived. Encounters with Europeans involved trade, cooperation, disagreement, and conflict. European colonization also brought disease and pressure on Indigenous lands. These changes did not affect every community in the same way.",
+          "Source investigation: A trade object can show what was exchanged, but not whether the exchange felt fair. A trader’s account describes that person’s view. A tribal history adds a community’s perspective. Compare all three. Ask whose voice is missing and what each source can actually support."
+        ],
+        "example": "Source investigation: A trade object can show what was exchanged, but not whether the exchange felt fair. A trader’s account describes that person’s view. A tribal history adds a community’s perspective. Compare all three. Ask whose voice is missing and what each source can actually support.",
+        "references": [
+          "https://www.michigan.gov/som/about-michigan",
+          "https://michiganology.org/stories/steps-to-statehood-for-michigan/",
+          "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/founding-detroit"
+        ]
+      }
+    ],
+    "activities": [
+      {
+        "type": "sources",
+        "title": "Try it yourself",
+        "instructions": "Explore the evidence, then explain your reasoning."
+      }
+    ],
+    "practice": [
+      {
+        "id": "3-H3.0.6-q1",
+        "kind": "choice",
+        "prompt": "Did trade networks exist before Europeans arrived?",
+        "options": ["Yes", "No"],
+        "answer": 0,
+        "explanation": "Indigenous Peoples already had communities and exchange networks.",
+        "concept": "Meeting, trading, changing"
+      },
+      {
+        "id": "3-H3.0.6-q2",
+        "kind": "choice",
+        "prompt": "Which word describes some early encounters?",
+        "options": ["Only friendship everywhere", "Trade"],
+        "answer": 1,
+        "explanation": "Interactions included exchange as well as conflict.",
+        "concept": "Meeting, trading, changing"
+      },
+      {
+        "id": "3-H3.0.6-q3",
+        "kind": "true-false",
+        "prompt": "True or false: One trader’s letter tells every viewpoint.",
+        "options": ["False", "True"],
+        "answer": 0,
+        "explanation": "A letter reflects a particular person’s view.",
+        "concept": "Meeting, trading, changing"
+      },
+      {
+        "id": "3-H3.0.6-q4",
+        "kind": "choice",
+        "prompt": "Why include a tribal history?",
+        "options": [
+          "To erase other sources",
+          "To learn a community’s perspective"
+        ],
+        "answer": 1,
+        "explanation": "Multiple perspectives improve an investigation.",
+        "concept": "Meeting, trading, changing"
+      },
+      {
+        "id": "3-H3.0.6-q5",
+        "kind": "choice",
+        "prompt": "What can an exchanged tool help show?",
+        "options": ["What goods were traded", "What every person felt"],
+        "answer": 0,
+        "explanation": "Objects provide evidence but cannot answer every question.",
+        "concept": "Meeting, trading, changing"
+      }
+    ],
+    "assessments": [
+      [
+        {
+          "id": "3-H3.0.6-q1",
+          "kind": "choice",
+          "prompt": "Did trade networks exist before Europeans arrived?",
+          "options": ["Yes", "No"],
+          "answer": 0,
+          "explanation": "Indigenous Peoples already had communities and exchange networks.",
+          "concept": "Meeting, trading, changing"
+        },
+        {
+          "id": "3-H3.0.6-q2",
+          "kind": "choice",
+          "prompt": "Which word describes some early encounters?",
+          "options": ["Only friendship everywhere", "Trade"],
+          "answer": 1,
+          "explanation": "Interactions included exchange as well as conflict.",
+          "concept": "Meeting, trading, changing"
+        },
+        {
+          "id": "3-H3.0.6-q3",
+          "kind": "true-false",
+          "prompt": "True or false: One trader’s letter tells every viewpoint.",
+          "options": ["False", "True"],
+          "answer": 0,
+          "explanation": "A letter reflects a particular person’s view.",
+          "concept": "Meeting, trading, changing"
+        },
+        {
+          "id": "3-H3.0.6-q4",
+          "kind": "choice",
+          "prompt": "Why include a tribal history?",
+          "options": [
+            "To erase other sources",
+            "To learn a community’s perspective"
+          ],
+          "answer": 1,
+          "explanation": "Multiple perspectives improve an investigation.",
+          "concept": "Meeting, trading, changing"
+        },
+        {
+          "id": "3-H3.0.6-q5",
+          "kind": "choice",
+          "prompt": "What can an exchanged tool help show?",
+          "options": ["What goods were traded", "What every person felt"],
+          "answer": 0,
+          "explanation": "Objects provide evidence but cannot answer every question.",
+          "concept": "Meeting, trading, changing"
+        }
+      ],
+      [
+        {
+          "id": "3-H3.0.6-q6",
+          "kind": "choice",
+          "prompt": "Which question helps compare accounts?",
+          "options": [
+            "Can I ignore every difference?",
+            "Whose voice is missing?"
+          ],
+          "answer": 1,
+          "explanation": "Missing voices can limit our understanding.",
+          "concept": "Meeting, trading, changing"
+        },
+        {
+          "id": "3-H3.0.6-q7",
+          "kind": "choice",
+          "prompt": "Which is a careful claim about encounters?",
+          "options": [
+            "Some involved cooperation and some conflict",
+            "All encounters were identical"
+          ],
+          "answer": 0,
+          "explanation": "Experiences varied by place, people, and time.",
+          "concept": "Meeting, trading, changing"
+        },
+        {
+          "id": "3-H3.0.6-q8",
+          "kind": "choice",
+          "prompt": "What did colonization put pressure on?",
+          "options": ["Only empty planets", "Indigenous lands"],
+          "answer": 1,
+          "explanation": "Colonization affected people already living on the land.",
+          "concept": "Meeting, trading, changing"
+        },
+        {
+          "id": "3-H3.0.6-q9",
+          "kind": "choice",
+          "prompt": "What should you compare with a trader’s record?",
+          "options": [
+            "A community account and artifacts",
+            "Only the same record again"
+          ],
+          "answer": 0,
+          "explanation": "Independent kinds of evidence add context.",
+          "concept": "Meeting, trading, changing"
+        },
+        {
+          "id": "3-H3.0.6-q10",
+          "kind": "choice",
+          "prompt": "Can an object alone prove a trade was fair?",
+          "options": ["Yes", "No"],
+          "answer": 1,
+          "explanation": "Fairness and experience require more evidence and perspectives.",
+          "concept": "Meeting, trading, changing"
+        }
+      ]
+    ],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-H3.0.7",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "History",
+    "officialDescription": "Use a variety of primary and secondary sources to construct a historical narrative about daily life in the early settlements of Michigan (pre-statehood).",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 30,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "ready",
+    "title": "A day in early Michigan",
+    "objectives": [
+      "Construct an evidence-supported narrative from a diary model, map, and museum note.",
+      "Distinguish supported details from invented or unknown details."
+    ],
+    "lessons": [
+      {
+        "title": "Build a story from evidence.",
+        "paragraphs": [
+          "A historical narrative is a story about the past supported by evidence. Early Michigan settlements had varied daily lives. Around Detroit, people farmed, traded, and made things by hand before statehood. Not every family did the same work or had the same experience.",
+          "Practice source set, all invented for learning: Diary A, labeled 1830: “We carried vegetables to trade.” Map B, labeled 1830: a settlement beside a river. Museum note C, written today: “Rivers helped move goods.” A supported narrative is: In this imagined 1830 settlement, a family carried vegetables to trade near a river. We cannot conclude they owned a large ship. Label inventions clearly and never quote these as real historical records."
+        ],
+        "example": "Practice source set, all invented for learning: Diary A, labeled 1830: “We carried vegetables to trade.” Map B, labeled 1830: a settlement beside a river. Museum note C, written today: “Rivers helped move goods.” A supported narrative is: In this imagined 1830 settlement, a family carried vegetables to trade near a river. We cannot conclude they owned a large ship. Label inventions clearly and never quote these as real historical records.",
+        "references": [
+          "https://www.michigan.gov/som/about-michigan",
+          "https://michiganology.org/stories/steps-to-statehood-for-michigan/",
+          "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/founding-detroit"
+        ]
+      }
+    ],
+    "activities": [
+      {
+        "type": "sources",
+        "title": "Try it yourself",
+        "instructions": "Explore the evidence, then explain your reasoning."
+      }
+    ],
+    "practice": [
+      {
+        "id": "3-H3.0.7-q1",
+        "kind": "source",
+        "prompt": "What is a historical narrative?",
+        "options": [
+          "A story supported by evidence",
+          "A story with no need for evidence"
+        ],
+        "answer": 0,
+        "explanation": "Historical narratives connect evidence into an account.",
+        "concept": "A day in early Michigan"
+      },
+      {
+        "id": "3-H3.0.7-q2",
+        "kind": "source",
+        "prompt": "Which work occurred in early settlements?",
+        "options": ["Building smartphones", "Farming and trading"],
+        "answer": 1,
+        "explanation": "Early communities used the tools of their time.",
+        "concept": "A day in early Michigan"
+      },
+      {
+        "id": "3-H3.0.7-q3",
+        "kind": "true-false",
+        "prompt": "True or false: Our practice diary is a real archival record.",
+        "options": ["False", "True"],
+        "answer": 0,
+        "explanation": "It is clearly labeled an invented teaching example.",
+        "concept": "A day in early Michigan"
+      },
+      {
+        "id": "3-H3.0.7-q4",
+        "kind": "source",
+        "prompt": "Which claim does the practice diary support?",
+        "options": [
+          "The family owned a steamship",
+          "A family carried vegetables to trade"
+        ],
+        "answer": 1,
+        "explanation": "Stay within what the evidence actually says.",
+        "concept": "A day in early Michigan"
+      },
+      {
+        "id": "3-H3.0.7-q5",
+        "kind": "source",
+        "prompt": "Which source adds location evidence?",
+        "options": ["Map B", "A guess about a future road"],
+        "answer": 0,
+        "explanation": "Maps can help place a narrative.",
+        "concept": "A day in early Michigan"
+      }
+    ],
+    "assessments": [
+      [
+        {
+          "id": "3-H3.0.7-q1",
+          "kind": "source",
+          "prompt": "What is a historical narrative?",
+          "options": [
+            "A story supported by evidence",
+            "A story with no need for evidence"
+          ],
+          "answer": 0,
+          "explanation": "Historical narratives connect evidence into an account.",
+          "concept": "A day in early Michigan"
+        },
+        {
+          "id": "3-H3.0.7-q2",
+          "kind": "source",
+          "prompt": "Which work occurred in early settlements?",
+          "options": ["Building smartphones", "Farming and trading"],
+          "answer": 1,
+          "explanation": "Early communities used the tools of their time.",
+          "concept": "A day in early Michigan"
+        },
+        {
+          "id": "3-H3.0.7-q3",
+          "kind": "true-false",
+          "prompt": "True or false: Our practice diary is a real archival record.",
+          "options": ["False", "True"],
+          "answer": 0,
+          "explanation": "It is clearly labeled an invented teaching example.",
+          "concept": "A day in early Michigan"
+        },
+        {
+          "id": "3-H3.0.7-q4",
+          "kind": "source",
+          "prompt": "Which claim does the practice diary support?",
+          "options": [
+            "The family owned a steamship",
+            "A family carried vegetables to trade"
+          ],
+          "answer": 1,
+          "explanation": "Stay within what the evidence actually says.",
+          "concept": "A day in early Michigan"
+        },
+        {
+          "id": "3-H3.0.7-q5",
+          "kind": "source",
+          "prompt": "Which source adds location evidence?",
+          "options": ["Map B", "A guess about a future road"],
+          "answer": 0,
+          "explanation": "Maps can help place a narrative.",
+          "concept": "A day in early Michigan"
+        }
+      ],
+      [
+        {
+          "id": "3-H3.0.7-q6",
+          "kind": "source",
+          "prompt": "For the imagined 1830 events, Diary A represents…",
+          "options": ["A modern textbook example", "A primary-source example"],
+          "answer": 1,
+          "explanation": "It models a record from the period, though it is invented.",
+          "concept": "A day in early Michigan"
+        },
+        {
+          "id": "3-H3.0.7-q7",
+          "kind": "source",
+          "prompt": "Museum note C represents…",
+          "options": ["A secondary-source example", "A firsthand diary"],
+          "answer": 0,
+          "explanation": "The modern note explains the past.",
+          "concept": "A day in early Michigan"
+        },
+        {
+          "id": "3-H3.0.7-q8",
+          "kind": "source",
+          "prompt": "Which detail should a narrative label uncertain?",
+          "options": [
+            "The diary’s stated vegetables",
+            "The family’s boat size, which no source gives"
+          ],
+          "answer": 1,
+          "explanation": "Do not fill evidence gaps with unmarked guesses.",
+          "concept": "A day in early Michigan"
+        },
+        {
+          "id": "3-H3.0.7-q9",
+          "kind": "source",
+          "prompt": "Why use both a map and diary?",
+          "options": [
+            "They offer different kinds of clues",
+            "One must always be false"
+          ],
+          "answer": 0,
+          "explanation": "Combining sources adds detail and context.",
+          "concept": "A day in early Michigan"
+        },
+        {
+          "id": "3-H3.0.7-q10",
+          "kind": "source",
+          "prompt": "Which title fits the evidence?",
+          "options": [
+            "A spaceship in Detroit",
+            "Trading vegetables near a river in 1830"
+          ],
+          "answer": 1,
+          "explanation": "A title should match supported details.",
+          "concept": "A day in early Michigan"
+        }
+      ]
+    ],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-H3.0.8",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "History",
+    "officialDescription": "Use case studies or stories to describe how the ideas or actions of individuals affected the history of Michigan (pre-statehood).",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 30,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "ready",
+    "title": "People who made a difference",
+    "objectives": [
+      "Connect Mason’s and Cadillac’s actions to changes in pre-statehood Michigan.",
+      "Explain why an individual’s story needs community context and other perspectives."
+    ],
+    "lessons": [
+      {
+        "title": "Small choices can shape big stories.",
+        "paragraphs": [
+          "Case study: Stevens T. Mason worked for Michigan to become a state. Michigan voters approved a constitution and elected him governor in 1835. The boundary dispute with Ohio still delayed admission. Mason’s efforts mattered, but many people and decisions shaped statehood.",
+          "Case study: Antoine de la Mothe Cadillac led the founding of the French settlement at Detroit in 1701. Indigenous Peoples already lived in the region. His action helped establish a French outpost; it did not begin the history of the place. Compare accounts to see whose experiences a case study includes."
+        ],
+        "example": "Case study: Antoine de la Mothe Cadillac led the founding of the French settlement at Detroit in 1701. Indigenous Peoples already lived in the region. His action helped establish a French outpost; it did not begin the history of the place. Compare accounts to see whose experiences a case study includes.",
+        "references": [
+          "https://www.michigan.gov/som/about-michigan",
+          "https://michiganology.org/stories/steps-to-statehood-for-michigan/",
+          "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/founding-detroit"
+        ]
+      }
+    ],
+    "activities": [
+      {
+        "type": "investigate",
+        "title": "Think, explain, connect",
+        "instructions": "Connect Mason’s and Cadillac’s actions to changes in pre-statehood Michigan. Tell a learning partner what you discovered. Which clue supports your answer?"
+      }
+    ],
+    "practice": [
+      {
+        "id": "3-H3.0.8-q1",
+        "kind": "choice",
+        "prompt": "Which goal did Mason work toward?",
+        "options": ["Michigan statehood", "Opening a space station"],
+        "answer": 0,
+        "explanation": "Mason was involved in the statehood process.",
+        "concept": "People who made a difference"
+      },
+      {
+        "id": "3-H3.0.8-q2",
+        "kind": "choice",
+        "prompt": "Who led the French settlement’s founding at Detroit in 1701?",
+        "options": ["A modern astronaut", "Cadillac"],
+        "answer": 1,
+        "explanation": "Cadillac’s action affected the settlement’s history.",
+        "concept": "People who made a difference"
+      },
+      {
+        "id": "3-H3.0.8-q3",
+        "kind": "true-false",
+        "prompt": "True or false: Michigan’s history began when Europeans arrived.",
+        "options": ["False", "True"],
+        "answer": 0,
+        "explanation": "Indigenous Peoples were already living in the region.",
+        "concept": "People who made a difference"
+      },
+      {
+        "id": "3-H3.0.8-q4",
+        "kind": "choice",
+        "prompt": "Which action did voters take in 1835?",
+        "options": ["Built the Mackinac Bridge", "Approved a constitution"],
+        "answer": 1,
+        "explanation": "Voters helped create a state government.",
+        "concept": "People who made a difference"
+      },
+      {
+        "id": "3-H3.0.8-q5",
+        "kind": "choice",
+        "prompt": "Did Mason act alone to create statehood?",
+        "options": [
+          "No, many people and decisions mattered",
+          "Yes, nobody else participated"
+        ],
+        "answer": 0,
+        "explanation": "History involves individuals and wider communities.",
+        "concept": "People who made a difference"
+      }
+    ],
+    "assessments": [
+      [
+        {
+          "id": "3-H3.0.8-q1",
+          "kind": "choice",
+          "prompt": "Which goal did Mason work toward?",
+          "options": ["Michigan statehood", "Opening a space station"],
+          "answer": 0,
+          "explanation": "Mason was involved in the statehood process.",
+          "concept": "People who made a difference"
+        },
+        {
+          "id": "3-H3.0.8-q2",
+          "kind": "choice",
+          "prompt": "Who led the French settlement’s founding at Detroit in 1701?",
+          "options": ["A modern astronaut", "Cadillac"],
+          "answer": 1,
+          "explanation": "Cadillac’s action affected the settlement’s history.",
+          "concept": "People who made a difference"
+        },
+        {
+          "id": "3-H3.0.8-q3",
+          "kind": "true-false",
+          "prompt": "True or false: Michigan’s history began when Europeans arrived.",
+          "options": ["False", "True"],
+          "answer": 0,
+          "explanation": "Indigenous Peoples were already living in the region.",
+          "concept": "People who made a difference"
+        },
+        {
+          "id": "3-H3.0.8-q4",
+          "kind": "choice",
+          "prompt": "Which action did voters take in 1835?",
+          "options": ["Built the Mackinac Bridge", "Approved a constitution"],
+          "answer": 1,
+          "explanation": "Voters helped create a state government.",
+          "concept": "People who made a difference"
+        },
+        {
+          "id": "3-H3.0.8-q5",
+          "kind": "choice",
+          "prompt": "Did Mason act alone to create statehood?",
+          "options": [
+            "No, many people and decisions mattered",
+            "Yes, nobody else participated"
+          ],
+          "answer": 0,
+          "explanation": "History involves individuals and wider communities.",
+          "concept": "People who made a difference"
+        }
+      ],
+      [
+        {
+          "id": "3-H3.0.8-q6",
+          "kind": "choice",
+          "prompt": "Which is an action-and-effect connection?",
+          "options": [
+            "Cadillac invented all Great Lakes",
+            "Cadillac led a settlement that became a French outpost"
+          ],
+          "answer": 1,
+          "explanation": "Connect a documented action to a supported effect.",
+          "concept": "People who made a difference"
+        },
+        {
+          "id": "3-H3.0.8-q7",
+          "kind": "choice",
+          "prompt": "What delayed admission despite Mason’s work?",
+          "options": ["A boundary dispute with Ohio", "A missing ocean"],
+          "answer": 0,
+          "explanation": "The Toledo boundary dispute complicated statehood.",
+          "concept": "People who made a difference"
+        },
+        {
+          "id": "3-H3.0.8-q8",
+          "kind": "choice",
+          "prompt": "Which question improves a case study?",
+          "options": [
+            "Can one person explain everything?",
+            "Whose viewpoint is missing?"
+          ],
+          "answer": 1,
+          "explanation": "Looking for missing voices adds perspective.",
+          "concept": "People who made a difference"
+        },
+        {
+          "id": "3-H3.0.8-q9",
+          "kind": "choice",
+          "prompt": "What makes a case study historical?",
+          "options": [
+            "Evidence about a person’s actions and effects",
+            "A famous name without evidence"
+          ],
+          "answer": 0,
+          "explanation": "Evidence supports the relationship between action and result.",
+          "concept": "People who made a difference"
+        },
+        {
+          "id": "3-H3.0.8-q10",
+          "kind": "choice",
+          "prompt": "Which happened earlier?",
+          "options": [
+            "Mason’s election in 1835",
+            "Cadillac’s settlement in 1701"
+          ],
+          "answer": 1,
+          "explanation": "Chronology places these individuals in different periods.",
+          "concept": "People who made a difference"
+        }
+      ]
+    ],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-H3.0.9",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "History",
+    "officialDescription": "Describe how Michigan attained statehood.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 30,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "ready",
+    "title": "Becoming the 26th state",
+    "objectives": [
+      "Describe constitution-making, the boundary compromise, and admission as steps to statehood.",
+      "Place Michigan’s admission on January 26, 1837, as the 26th state."
+    ],
+    "lessons": [
+      {
+        "title": "Michigan’s road to statehood.",
+        "paragraphs": [
+          "Michigan was a U.S. territory before it became a state. Population growth helped build the movement for statehood. Voters approved a state constitution in 1835. A constitution sets rules for government.",
+          "Michigan and Ohio disputed the Toledo Strip. Michigan accepted a boundary settlement: Ohio kept Toledo, and Michigan received the western Upper Peninsula. Congress admitted Michigan on January 26, 1837, as the 26th state. Statehood did not erase Indigenous nations, their histories, or their rights."
+        ],
+        "example": "Michigan and Ohio disputed the Toledo Strip. Michigan accepted a boundary settlement: Ohio kept Toledo, and Michigan received the western Upper Peninsula. Congress admitted Michigan on January 26, 1837, as the 26th state. Statehood did not erase Indigenous nations, their histories, or their rights.",
+        "references": [
+          "https://www.michigan.gov/som/about-michigan",
+          "https://michiganology.org/stories/steps-to-statehood-for-michigan/",
+          "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/founding-detroit"
+        ]
+      }
+    ],
+    "activities": [
+      {
+        "type": "timeline",
+        "title": "Try it yourself",
+        "instructions": "Explore the evidence, then explain your reasoning."
+      }
+    ],
+    "practice": [
+      {
+        "id": "3-H3.0.9-q1",
+        "kind": "choice",
+        "prompt": "When did Michigan join the United States as a state?",
+        "options": ["January 26, 1837", "January 26, 1937"],
+        "answer": 0,
+        "explanation": "Michigan was admitted in 1837.",
+        "concept": "Becoming the 26th state"
+      },
+      {
+        "id": "3-H3.0.9-q2",
+        "kind": "choice",
+        "prompt": "Michigan became which numbered state?",
+        "options": ["1st", "26th"],
+        "answer": 1,
+        "explanation": "Michigan joined as the 26th state.",
+        "concept": "Becoming the 26th state"
+      },
+      {
+        "id": "3-H3.0.9-q3",
+        "kind": "true-false",
+        "prompt": "True or false: Michigan was a territory before statehood.",
+        "options": ["True", "False"],
+        "answer": 0,
+        "explanation": "Territorial government came before admission as a state.",
+        "concept": "Becoming the 26th state"
+      },
+      {
+        "id": "3-H3.0.9-q4",
+        "kind": "choice",
+        "prompt": "Which state disputed the Toledo Strip with Michigan?",
+        "options": ["Hawaii", "Ohio"],
+        "answer": 1,
+        "explanation": "Michigan and Ohio disputed their boundary.",
+        "concept": "Becoming the 26th state"
+      },
+      {
+        "id": "3-H3.0.9-q5",
+        "kind": "choice",
+        "prompt": "What did voters approve in 1835?",
+        "options": ["A state constitution", "A new Great Lake"],
+        "answer": 0,
+        "explanation": "The constitution helped establish state government.",
+        "concept": "Becoming the 26th state"
+      }
+    ],
+    "assessments": [
+      [
+        {
+          "id": "3-H3.0.9-q1",
+          "kind": "choice",
+          "prompt": "When did Michigan join the United States as a state?",
+          "options": ["January 26, 1837", "January 26, 1937"],
+          "answer": 0,
+          "explanation": "Michigan was admitted in 1837.",
+          "concept": "Becoming the 26th state"
+        },
+        {
+          "id": "3-H3.0.9-q2",
+          "kind": "choice",
+          "prompt": "Michigan became which numbered state?",
+          "options": ["1st", "26th"],
+          "answer": 1,
+          "explanation": "Michigan joined as the 26th state.",
+          "concept": "Becoming the 26th state"
+        },
+        {
+          "id": "3-H3.0.9-q3",
+          "kind": "true-false",
+          "prompt": "True or false: Michigan was a territory before statehood.",
+          "options": ["True", "False"],
+          "answer": 0,
+          "explanation": "Territorial government came before admission as a state.",
+          "concept": "Becoming the 26th state"
+        },
+        {
+          "id": "3-H3.0.9-q4",
+          "kind": "choice",
+          "prompt": "Which state disputed the Toledo Strip with Michigan?",
+          "options": ["Hawaii", "Ohio"],
+          "answer": 1,
+          "explanation": "Michigan and Ohio disputed their boundary.",
+          "concept": "Becoming the 26th state"
+        },
+        {
+          "id": "3-H3.0.9-q5",
+          "kind": "choice",
+          "prompt": "What did voters approve in 1835?",
+          "options": ["A state constitution", "A new Great Lake"],
+          "answer": 0,
+          "explanation": "The constitution helped establish state government.",
+          "concept": "Becoming the 26th state"
+        }
+      ],
+      [
+        {
+          "id": "3-H3.0.9-q6",
+          "kind": "choice",
+          "prompt": "Who kept Toledo in the settlement?",
+          "options": ["Michigan", "Ohio"],
+          "answer": 1,
+          "explanation": "The settlement left Toledo in Ohio.",
+          "concept": "Becoming the 26th state"
+        },
+        {
+          "id": "3-H3.0.9-q7",
+          "kind": "choice",
+          "prompt": "Michigan received which area in the compromise?",
+          "options": [
+            "The western Upper Peninsula",
+            "The entire Pacific Ocean"
+          ],
+          "answer": 0,
+          "explanation": "The boundary settlement included the western Upper Peninsula.",
+          "concept": "Becoming the 26th state"
+        },
+        {
+          "id": "3-H3.0.9-q8",
+          "kind": "choice",
+          "prompt": "Which came first?",
+          "options": ["Admission in 1837", "Constitution approved in 1835"],
+          "answer": 1,
+          "explanation": "Constitution-making preceded admission.",
+          "concept": "Becoming the 26th state"
+        },
+        {
+          "id": "3-H3.0.9-q9",
+          "kind": "choice",
+          "prompt": "What does a constitution do?",
+          "options": ["Sets rules for government", "Lists only family recipes"],
+          "answer": 0,
+          "explanation": "A constitution organizes and limits government.",
+          "concept": "Becoming the 26th state"
+        },
+        {
+          "id": "3-H3.0.9-q10",
+          "kind": "choice",
+          "prompt": "Did statehood end the existence of Indigenous nations?",
+          "options": ["Yes", "No"],
+          "answer": 1,
+          "explanation": "Indigenous nations continue to exist today.",
+          "concept": "Becoming the 26th state"
+        }
+      ]
+    ],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-H3.0.10",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "History",
+    "officialDescription": "Create a timeline to sequence and describe major eras and events in early Michigan history.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 30,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "ready",
+    "title": "Make a Michigan timeline",
+    "objectives": [
+      "Sequence and describe four major events in early Michigan history.",
+      "Explain the limits of a timeline and recognize histories beyond its selected dates."
+    ],
+    "lessons": [
+      {
+        "title": "Put the past in its place.",
+        "paragraphs": [
+          "A timeline puts events in chronological order, from earlier to later. Add dates and short descriptions. Timelines may also show eras, which are longer periods. Indigenous histories stretch far before the dated events on our practice timeline and continue today.",
+          "Our practice timeline: 1701 — French settlement established at Detroit; 1825 — Erie Canal opens; 1835 — Michigan voters approve a constitution; 1837 — Michigan becomes a state. Move the cards to put them in order. Explain what each event changed. A timeline shows order, but additional evidence is needed to explain causes."
+        ],
+        "example": "Our practice timeline: 1701 — French settlement established at Detroit; 1825 — Erie Canal opens; 1835 — Michigan voters approve a constitution; 1837 — Michigan becomes a state. Move the cards to put them in order. Explain what each event changed. A timeline shows order, but additional evidence is needed to explain causes.",
+        "references": [
+          "https://www.michigan.gov/som/about-michigan",
+          "https://michiganology.org/stories/steps-to-statehood-for-michigan/",
+          "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/founding-detroit"
+        ]
+      }
+    ],
+    "activities": [
+      {
+        "type": "timeline",
+        "title": "Try it yourself",
+        "instructions": "Explore the evidence, then explain your reasoning."
+      }
+    ],
+    "practice": [
+      {
+        "id": "3-H3.0.10-q1",
+        "kind": "choice",
+        "prompt": "Which event comes first on this timeline?",
+        "options": ["Detroit settlement, 1701", "Statehood, 1837"],
+        "answer": 0,
+        "explanation": "1701 is earlier than 1837.",
+        "concept": "Make a Michigan timeline"
+      },
+      {
+        "id": "3-H3.0.10-q2",
+        "kind": "choice",
+        "prompt": "Which date belongs to the Erie Canal opening?",
+        "options": ["1837", "1825"],
+        "answer": 1,
+        "explanation": "The canal opened before Michigan statehood.",
+        "concept": "Make a Michigan timeline"
+      },
+      {
+        "id": "3-H3.0.10-q3",
+        "kind": "true-false",
+        "prompt": "True or false: A timeline should include short event descriptions.",
+        "options": ["True", "False"],
+        "answer": 0,
+        "explanation": "Descriptions explain what each date represents.",
+        "concept": "Make a Michigan timeline"
+      },
+      {
+        "id": "3-H3.0.10-q4",
+        "kind": "sequence",
+        "prompt": "Which sequence is correct?",
+        "options": ["1837 → 1701 → 1835 → 1825", "1701 → 1825 → 1835 → 1837"],
+        "answer": 1,
+        "explanation": "Chronological order moves from earlier to later.",
+        "concept": "Make a Michigan timeline"
+      },
+      {
+        "id": "3-H3.0.10-q5",
+        "kind": "choice",
+        "prompt": "Does this timeline show the beginning of all Michigan history?",
+        "options": [
+          "No, Indigenous histories reach much further back",
+          "Yes, nothing happened before 1701"
+        ],
+        "answer": 0,
+        "explanation": "Selected dates do not include all history.",
+        "concept": "Make a Michigan timeline"
+      }
+    ],
+    "assessments": [
+      [
+        {
+          "id": "3-H3.0.10-q1",
+          "kind": "choice",
+          "prompt": "Which event comes first on this timeline?",
+          "options": ["Detroit settlement, 1701", "Statehood, 1837"],
+          "answer": 0,
+          "explanation": "1701 is earlier than 1837.",
+          "concept": "Make a Michigan timeline"
+        },
+        {
+          "id": "3-H3.0.10-q2",
+          "kind": "choice",
+          "prompt": "Which date belongs to the Erie Canal opening?",
+          "options": ["1837", "1825"],
+          "answer": 1,
+          "explanation": "The canal opened before Michigan statehood.",
+          "concept": "Make a Michigan timeline"
+        },
+        {
+          "id": "3-H3.0.10-q3",
+          "kind": "true-false",
+          "prompt": "True or false: A timeline should include short event descriptions.",
+          "options": ["True", "False"],
+          "answer": 0,
+          "explanation": "Descriptions explain what each date represents.",
+          "concept": "Make a Michigan timeline"
+        },
+        {
+          "id": "3-H3.0.10-q4",
+          "kind": "sequence",
+          "prompt": "Which sequence is correct?",
+          "options": ["1837 → 1701 → 1835 → 1825", "1701 → 1825 → 1835 → 1837"],
+          "answer": 1,
+          "explanation": "Chronological order moves from earlier to later.",
+          "concept": "Make a Michigan timeline"
+        },
+        {
+          "id": "3-H3.0.10-q5",
+          "kind": "choice",
+          "prompt": "Does this timeline show the beginning of all Michigan history?",
+          "options": [
+            "No, Indigenous histories reach much further back",
+            "Yes, nothing happened before 1701"
+          ],
+          "answer": 0,
+          "explanation": "Selected dates do not include all history.",
+          "concept": "Make a Michigan timeline"
+        }
+      ],
+      [
+        {
+          "id": "3-H3.0.10-q6",
+          "kind": "choice",
+          "prompt": "Which is the latest event here?",
+          "options": ["Canal opening in 1825", "Statehood in 1837"],
+          "answer": 1,
+          "explanation": "1837 comes after the other dates.",
+          "concept": "Make a Michigan timeline"
+        },
+        {
+          "id": "3-H3.0.10-q7",
+          "kind": "choice",
+          "prompt": "What happened in 1835 on this timeline?",
+          "options": [
+            "Voters approved a constitution",
+            "The Erie Canal opened"
+          ],
+          "answer": 0,
+          "explanation": "The constitution was approved two years before admission.",
+          "concept": "Make a Michigan timeline"
+        },
+        {
+          "id": "3-H3.0.10-q8",
+          "kind": "choice",
+          "prompt": "What is an era?",
+          "options": ["Always exactly one day", "A longer period of history"],
+          "answer": 1,
+          "explanation": "An era groups time beyond an individual event.",
+          "concept": "Make a Michigan timeline"
+        },
+        {
+          "id": "3-H3.0.10-q9",
+          "kind": "choice",
+          "prompt": "Does chronological order alone prove cause?",
+          "options": ["No", "Yes"],
+          "answer": 0,
+          "explanation": "Causal claims require evidence beyond order.",
+          "concept": "Make a Michigan timeline"
+        },
+        {
+          "id": "3-H3.0.10-q10",
+          "kind": "choice",
+          "prompt": "Which label best describes 1837?",
+          "options": [
+            "Michigan’s first-ever inhabitants arrived",
+            "Michigan admitted as the 26th state"
+          ],
+          "answer": 1,
+          "explanation": "Statehood is a government milestone, not the start of human history.",
+          "concept": "Make a Michigan timeline"
+        }
+      ]
+    ],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-G1.0.1",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Geography",
+    "officialDescription": "Use cardinal directions (north, south, east, west) to describe the relative locations of significant places in the immediate environment.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 31,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "G1.0.1",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-G1.0.2",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Geography",
+    "officialDescription": "Use thematic maps to identify and describe the physical and human characteristics of Michigan.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 31,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "G1.0.2",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-G1.0.3",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Geography",
+    "officialDescription": "Use a world map to describe North America in relation to the equator and other continents and oceans, and Michigan within North America.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 31,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "G1.0.3",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-G2.0.1",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Geography",
+    "officialDescription": "Use a variety of visual materials and data sources to describe ways in which Michigan can be divided into regions.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 31,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "G2.0.1",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-G2.0.2",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Geography",
+    "officialDescription": "Describe different regions to which Michigan belongs.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 31,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "G2.0.2",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-G4.0.1",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Geography",
+    "officialDescription": "Describe major kinds of economic activity in Michigan today, such as agriculture, forestry, manufacturing, services and tourism, and research and development, and explain the factors influencing the location of these economic activities.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 31,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "G4.0.1",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-G4.0.2",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Geography",
+    "officialDescription": "Describe diverse groups that have migrated into a region of Michigan and reasons why they came (push/pull factors).",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 32,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "G4.0.2",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-G4.0.3",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Geography",
+    "officialDescription": "Describe some of the current movements of goods, people, jobs, or information to, from, or within Michigan and explain reasons for the movements.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 32,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "G4.0.3",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-G4.0.4",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Geography",
+    "officialDescription": "Use data and current information about the Anishinaabek and other Indigenous Peoples living in Michigan today to describe the cultural aspects of modern life.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 32,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "G4.0.4",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-G5.0.1",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Geography",
+    "officialDescription": "Describe how people are a part of, adapt to, use, and modify the physical environment of Michigan.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 32,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "G5.0.1",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-G5.0.2",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Geography",
+    "officialDescription": "Locate natural resources in Michigan and explain the consequences of their use.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 32,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "G5.0.2",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-C1.0.1",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Civics and Government",
+    "officialDescription": "Give an example of how Michigan state government fulfills one of the purposes of government.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 32,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "C1.0.1",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-C2.0.1",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Civics and Government",
+    "officialDescription": "Describe how the Michigan state government reflects the principle of representative government.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 32,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "C2.0.1",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-C3.0.1",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Civics and Government",
+    "officialDescription": "Distinguish between the roles of tribal, state, and local governments.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 33,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "C3.0.1",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-C3.0.2",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Civics and Government",
+    "officialDescription": "Identify goods and services provided by the state government and describe how they are funded.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 33,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "C3.0.2",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-C3.0.3",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Civics and Government",
+    "officialDescription": "Identify the three branches of state government in Michigan and the powers of each.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 33,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "C3.0.3",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-C3.0.4",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Civics and Government",
+    "officialDescription": "Explain how state courts function to resolve conflict.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 33,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "C3.0.4",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-C3.0.5",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Civics and Government",
+    "officialDescription": "Describe the purpose of the Michigan Constitution.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 33,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "C3.0.5",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-C5.0.1",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Civics and Government",
+    "officialDescription": "Identify and explain rights and responsibilities of citizenship.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 33,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "C5.0.1",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-E1.0.1",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Economics",
+    "officialDescription": "Using a Michigan example, explain how scarcity, choice, and opportunity cost affect what is produced and consumed.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 33,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "E1.0.1",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-E1.0.2",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Economics",
+    "officialDescription": "Identify incentives that influence economic decisions people make in Michigan.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 33,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "E1.0.2",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-E1.0.3",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Economics",
+    "officialDescription": "Analyze how Michigan’s location and natural resources influenced its economic development.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 34,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "E1.0.3",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-E1.0.4",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Economics",
+    "officialDescription": "Describe how entrepreneurs combine natural, human, and capital resources to produce goods and services in Michigan.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 34,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "E1.0.4",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-E1.0.5",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Economics",
+    "officialDescription": "Explain the role of entrepreneurship and business development in Michigan’s economic future.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 34,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "E1.0.5",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-E2.0.1",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Economics",
+    "officialDescription": "Using a Michigan example, explain how specialization leads to increased interdependence.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 34,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "E2.0.1",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-E3.0.1",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Economics",
+    "officialDescription": "Identify products produced in other countries and consumed by people in Michigan.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 34,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "E3.0.1",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-P3.1.1",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Public Discourse",
+    "officialDescription": "Identify public issues in Michigan that influence the daily lives of its citizens.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 34,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "P3.1.1",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-P3.1.2",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Public Discourse",
+    "officialDescription": "Use graphic data and other sources to analyze information about a public issue in Michigan and evaluate alternative resolutions.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 34,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "P3.1.2",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-P3.1.3",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Public Discourse",
+    "officialDescription": "Give examples of how conflicts over Democratic Values lead people to differ on resolutions to a public policy issue in Michigan.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 34,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "P3.1.3",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-P3.3.1",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Public Discourse",
+    "officialDescription": "Compose a paragraph expressing a position on a public policy issue in Michigan and justify the position with a reasoned argument.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 35,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "P3.3.1",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-P4.2.1",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Public Discourse",
+    "officialDescription": "Develop and implement an action plan and know how, when, and where to address or inform others about a public issue.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 35,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "P4.2.1",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  },
+  {
+    "code": "3-P4.2.2",
+    "grade": 3,
+    "subject": "Social Studies",
+    "module": "Public Discourse",
+    "officialDescription": "Participate in projects to help or inform others.",
+    "officialExamples": [],
+    "source": {
+      "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf",
+      "page": 35,
+      "edition": "June 2019",
+      "verified": true
+    },
+    "status": "planned",
+    "title": "P4.2.2",
+    "objectives": [],
+    "lessons": [],
+    "activities": [],
+    "practice": [],
+    "assessments": [],
+    "mastery": {
+      "threshold": 0.8,
+      "rounds": 2,
+      "questionsPerRound": 5
+    }
+  }
+]
