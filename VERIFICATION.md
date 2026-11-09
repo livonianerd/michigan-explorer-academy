@@ -15,6 +15,8 @@ Local verification after the correction:
 - Playwright now serves the actual `dist` build through a fresh Vite preview process on dedicated port 4175. It does not reuse an unrelated development server. No tests were disabled or skipped.
 - A sandboxed local `npm ci` attempt could not complete esbuild's binary validation because child-process execution returned `EPERM`; the subsequent permitted `npm install` succeeded. The GitHub workflow retains ordinary `npm ci` with install scripts enabled, so CI must validate the clean install independently.
 
+The first repair run (`42557593269`) independently passed clean `npm ci`, all unit/browser tests, and the production build in GitHub Actions. It then exposed a separate deployment prerequisite: Pages was not enabled, so `deploy-pages` returned HTTP 404. The repository Pages site has now been created through the authenticated GitHub API with `build_type: workflow`, HTTPS enforced, and the target URL `https://livonianerd.github.io/michigan-explorer-academy/`. The deployment job now runs `actions/configure-pages@v5` before publishing to check Pages configuration explicitly.
+
 The Pages workflow tests the production build before uploading `dist`, and deployment requires Verify to pass. Its deployment job has `contents: read`, `pages: write`, and `id-token: write` and runs only for `main` outside pull requests.
 
 Manual screen-reader testing, classroom/teacher review, and tribal education review are not claimed. Initial implementation-era sandbox restrictions recorded previously are superseded by the successful browser verification above.
